@@ -15,7 +15,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
     * Git.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/AnshikaModi/java.git]
+    git clone [https://github.com/Shambhavi-code/java_project_Shambhavi-]
     ```
 3.  **Navigate to the Project Directory:**
     ```bash
