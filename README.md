@@ -1,6 +1,6 @@
 # Campus Course & Records Manager (CCRM)
 
-**Author:** [Anshika Modi]
+**Author:** [SHAMBHAVI SINGH]
 **Project for:** [Programming in JAVA ]
 
 ---
